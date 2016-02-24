@@ -29,6 +29,7 @@ You can also specify where you want the output directory created:
 
 You will need vorbis-tools installed since the oggenc command is used to
 encode the files.
+Also this only works under Python 2 at the moment. (Hence the [pyenv](https://github.com/yyuu/pyenv) .python-version file)
 
 # TODO
 
